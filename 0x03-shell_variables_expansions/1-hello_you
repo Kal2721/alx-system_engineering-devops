@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ~
+echo "hell0 $USER"
