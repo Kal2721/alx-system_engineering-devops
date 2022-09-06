@@ -5,7 +5,7 @@
 5. display the last 10 lines of etc/passwd 
 6. display the first 10 lines of etc/passwd
 7. display the third line of the file iacta
-8. 
+8. write a script that create a file name 
 9.
 10.
 11.
