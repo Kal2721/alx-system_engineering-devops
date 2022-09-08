@@ -1,0 +1,2 @@
+#!/bin/bash
+sed -i.bak -e 's/A/Z/g' -e 's/c/e/g' 19-AZ
