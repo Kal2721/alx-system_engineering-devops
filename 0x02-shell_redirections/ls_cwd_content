@@ -1,0 +1,27 @@
+total 120
+drwxr-xr-x 2 root root  4096 Dec  5 05:14 .
+drwxr-xr-x 7 root root   160 Dec  1 08:35 ..
+-rwxr-xr-x 1 root root    32 Nov 30 09:35 0-hello_world
+-rw-r--r-- 1 root root 12288 Nov 30 09:35 .0-hello_world.swo
+-rw-r--r-- 1 root root 12288 Nov 30 09:35 .0-hello_world.swp
+-rwxr-xr-x 1 root root     0 Nov 30 09:35 10-no_more_js
+-rwxr-xr-x 1 root root    55 Nov 30 09:35 19-AZ
+-rwxr-xr-x 1 root root    55 Nov 30 09:35 19-AZ.bak
+-rwxr-xr-x 1 root root    27 Nov 30 09:35 1-confused_smiley
+-rwxr-xr-x 1 root root    33 Nov 30 09:35 20-hiago
+-rwxr-xr-x 1 root root    16 Nov 30 09:35 21-reverse
+-rwxr-xr-x 1 root root    39 Nov 30 09:35 22-users_and_homes
+-rwxr-xr-x 1 root root    28 Dec  5 03:56 2-hellofile
+-rw-r--r-- 1 root root 12288 Nov 30 09:35 .2-hellofile.swp
+-rwxr-xr-x 1 root root    40 Dec  5 04:06 3-twofiles
+-rwxr-xr-x 1 root root    35 Dec  5 04:09 4-lastlines
+-rwxr-xr-x 1 root root    35 Dec  5 04:10 5-firstlines
+-rwxr-xr-x 1 root root    36 Dec  5 04:31 6-third_line
+-rwxr--r-- 1 root root    73 Dec  5 05:05 7-file
+-rwxr-xr-x 1 root root    36 Dec  5 05:14 8-cwd_state
+-rwxr-xr-x 1 root root     0 Nov 30 09:35 9-duplicate_last_line
+-rwxr-xr-x 1 root root    50 Nov 30 09:35 git
+-rw-r--r-- 1 root root   213 Dec  5 04:25 iacta
+-rw-r--r-- 1 root root     0 Dec  5 05:14 ls_cwd_content
+-rw-r--r-- 1 root root   363 Nov 30 09:35 README.md
+-rw-r--r-- 1 root root 12288 Nov 30 09:35 .README.md.swp
