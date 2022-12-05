@@ -1,2 +1,2 @@
 #!/bin/bash
-sed 's/c//' 20-hiago
+tr -d "cC"
